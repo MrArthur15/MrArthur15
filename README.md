@@ -1,1 +1,2 @@
 <p align="center"><a href="https://git.io/streak-stats" sty><img src="https://streak-stats.demolab.com?user=MrArthur15&theme=radical&hide_border=true&border_radius=40&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrarthur15)](https://github.com/anuraghazra/github-readme-stats)
