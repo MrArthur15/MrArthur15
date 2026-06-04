@@ -67,7 +67,7 @@
 <br>
 
 <div align="center">
-  <img src="https://now-playing-profile-one.vercel.app/api/now-playing" alt="Spotify Now Playing" />
+  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID)" alt="Spotify">
 </div>
 
 <br>
