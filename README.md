@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/60/d4/0b/60d40b8f72ceebda5c6f600b3e5b3b0d.gif" alt="Space Tech Roxo" width="100%">
+  <img src="COLE_O_LINK_GERADO_AQUI" alt="Space Tech Roxo" width="100%">
 </div>
 
 <br>
@@ -52,14 +52,25 @@
 
 ### 🚀 Projetos em Destaque
 
-*   **[⚙️ WhatsApp Web Motor](https://github.com/MrArthur15/whatsapp-motor-architecture)** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
-*   **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
-*   **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
+* **[⚙️ WhatsApp Web Motor](https://github.com/MrArthur15/whatsapp-motor-architecture)** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
+* **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
+* **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
 
 <br>
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://now-playing-profile-one.vercel.app/api/now-playing" alt="Spotify Now Playing" />
+</div>
+
+<br>
+
+<div align="center">
 </div>
