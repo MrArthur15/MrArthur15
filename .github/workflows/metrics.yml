@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           template: classic
-          base: "" 
+          base: ""
           config_timezone: America/Sao_Paulo
           config_theme: tokyonight
           plugin_languages: yes
