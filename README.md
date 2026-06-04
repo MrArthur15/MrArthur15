@@ -44,5 +44,5 @@
 <br>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=MrArthur15)](https://git.io/streak-stats)
 </div>
