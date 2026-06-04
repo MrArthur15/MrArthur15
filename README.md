@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/bf/96/a4bf96515b13ea1a4ce77cfa2bfb3464.gif" alt="Quarto Tech Roxo" width="100%">
+  <img src="[https://i.pinimg.com/originals/a4/bf/96/a4bf96515b13ea1a4ce77cfa2bfb3464.gif](https://i.pinimg.com/originals/60/d4/0b/60d40b8f72ceebda5c6f600b3e5b3b0d.gif)" alt="Quarto Tech Roxo" width="100%">
 </div>
 
 <br>
