@@ -69,7 +69,9 @@
 <br>
 
 <div align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID)" alt="Spotify">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=arthur-pires-br&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&profanity=false&hide_remaster=false&bar_color=9b59b6&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
 </div>
 
 <br>
