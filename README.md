@@ -1,16 +1,14 @@
 
 <div align="center">
-  <img width="1920" height="1080" alt="bc64eca2ac244d7886d5da39ebcf13a7" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
-
+  <h2>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> </h2>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> </h2>
-</div>
+  <img width="1920" height="1080" alt="bc64eca2ac244d7886d5da39ebcf13a7" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
 
-<br>
+</div>
 
 <h3 align="center">Computer Engineering Student @ IFSP | Full Stack Developer</h3>
 
