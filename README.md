@@ -1,5 +1,7 @@
+
 <div align="center">
-  <img src="COLE_O_LINK_GERADO_AQUI" alt="Space Tech Roxo" width="100%">
+  <img width="1920" height="1080" alt="bc64eca2ac244d7886d5da39ebcf13a7" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
+
 </div>
 
 <br>
