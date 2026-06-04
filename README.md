@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="800" alt="Space Tech Roxo" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
+  <img width="700" alt="Space Tech Roxo" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
 </div>
 
 <h3 align="center">Computer Engineering Student @ IFSP | Full Stack Developer</h3>
