@@ -1,20 +1,15 @@
-<br>
-
 <div align="center">
-  <h2><code>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> </code></h2>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1500&color=9B59B6&center=true&vCenter=true&width=800&lines=%3E+Arthur+Pires;%3E+Computer+Engineering+Student;%3E+Full+Stack+Developer" alt="Arthur Pires" />
 </div>
 
-<br>
-
 <div align="center">
-  <img width="1920" height="1080" alt="bc64eca2ac244d7886d5da39ebcf13a7" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
-
+  <img width="800" alt="Space Tech Roxo" src="https://github.com/user-attachments/assets/57c87c02-cd82-41cd-8d12-4c3ad8868be9" />
 </div>
 
 <h3 align="center">Computer Engineering Student @ IFSP | Full Stack Developer</h3>
 
 <p align="center">
-  Hi! My name is <b>Arthur Pires</b> (MrArthur15), I am 22 years old and a Computer Engineering student at IFSP. I have an analytical mind driven by the desire to understand the structural "why" behind technologies. I am passionate about architecting solid solutions and constantly exploring the web and gaming ecosystem.
+  Hi! My name is <b>Arthur Pires</b> (MrArthur15). Driven by an analytical and highly systematic mindset, I focus on understanding the structural "why" behind technologies rather than applying temporary workarounds. Guided by my personal philosophy of <i>"Viver e Registrar"</i> (Live and Document), I meticulously track processes and progress, treating code and continuous learning as a long-term legacy. Whether I am architecting databases, building backend systems, or exploring the gaming ecosystem, my goal is to design scalable and solid solutions.
 </p>
 
 <div align="center">
@@ -22,7 +17,7 @@
   <a href="https://www.linkedin.com/in/mrarthur15/"><img src="https://img.shields.io/badge/LinkedIn-12101E?style=for-the-badge&logo=linkedin&logoColor=9b59b6" alt="LinkedIn"></a>
 </div>
 
-<br>
+---
 
 ### 💻 Skills & Technologies
 
@@ -60,14 +55,17 @@
 <br>
 
 ### 🔥 GitHub Stats & Activity
-HTML
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="800">
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
-</div>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="github-metrics.svg" alt="GitHub Metrics" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -77,11 +75,6 @@ HTML
   </a>
 </div>
 
-<br>
-
-<div align="center">
 <!-- WAKATIME (COMENTADO PARA USO FUTURO) -->
-<!-- Quando for usar, apague o "X_" das duas tags abaixo -->
 <!--X_START_SECTION:waka-->
 <!--X_END_SECTION:waka-->
-</div>
