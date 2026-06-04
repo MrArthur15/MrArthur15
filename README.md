@@ -1,12 +1,5 @@
 <div align="center">
-  <!-- OPÇÃO 1: Quarto Roxo com Chuva e Gato -->
   <img src="https://i.pinimg.com/originals/a4/bf/96/a4bf96515b13ea1a4ce77cfa2bfb3464.gif" alt="Quarto Tech Roxo" width="100%">
-  
-  <!-- OPÇÃO 2: Setup Gamer Roxo Pixel Art -->
-  <img src="https://i.pinimg.com/originals/b5/02/b6/b502b6672322306dbbc15ed1e8a4bb2d.gif" alt="Setup Gamer Roxo" width="100%">
-
-  <!-- OPÇÃO 3: Gato Espacial olhando a Galáxia -->
-  <img src="https://i.pinimg.com/originals/44/a5/d8/44a5d852109289d021c32c4a938e55e8.gif" alt="Gato Espacial" width="100%">
 </div>
 
 <br>
@@ -22,7 +15,7 @@
 <h3 align="center">Computer Engineering Student @ IFSP | Software Developer</h3>
 
 <p align="center">
-  Hi! My name is <b>Arthur Pires</b> (MrArthur15), I am 22 years old and a Computer Engineering student at IFSP. I have an analytical mind and a passion for understanding the structural "why" behind technologies. I am driven by the challenge of architecting solid solutions and constantly exploring the tech and gaming ecosystem. Currently focused on web development and structuring my final thesis.
+  Hi! My name is <b>Arthur Pires</b>, I am 22 years old and a Computer Engineering student at IFSP. I have an analytical mind driven by the desire to understand the structural "why" behind technologies. I am passionate about transforming complex problems into efficient architectures and constantly exploring the web and gaming ecosystem.
 </p>
 
 <div align="center">
@@ -35,32 +28,21 @@
 
 ### 💻 Skills & Technologies
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <th align="center" width="50%">Core & Backend</th>
-    <th align="center" width="50%">Web, Tools & OS</th>
+    <td align="center"><b>Main Skills</b></td>
+    <td align="center"><b>Other Knowledge</b></td>
   </tr>
   <tr>
     <td align="center">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET" title="ASP.NET" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="SQL" title="SQL" />
-      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,react,html,css" alt="Main Skills" />
+      </a>
     </td>
     <td align="center">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,cpp,mysql,linux,git" alt="Other Knowledge" />
+      </a>
     </td>
   </tr>
 </table>
@@ -73,15 +55,27 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 🏆 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrArthur15&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b59b6&icon_color=9b59b6&text_color=a9a9b3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArthur15&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59b6&text_color=a9a9b3" alt="Top Languages" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MrArthur15&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Animação interativa da Cobrinha -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrArthur15/MrArthur15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrArthur15/MrArthur15/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrArthur15/MrArthur15/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
