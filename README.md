@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h2>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> 🌌</h2>
+  <h2>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> </h2>
 </div>
 
 <br>
