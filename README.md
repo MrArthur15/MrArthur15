@@ -61,9 +61,10 @@
 <br>
 
 ### 🔥 GitHub Stats & Activity
-<!--div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrArthur15&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59b6&text_color=a9a9b3" alt="Top Languages" />
-</div-->
+HTML
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="800">
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrArthur15&theme=tokyonight&hide_border=true&background=0D1117&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&stroke=00000000" alt="GitHub Streak" />
