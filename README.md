@@ -1,5 +1,5 @@
 <h1 align="center">
-  > Hello, World! I am <span style="color: #9b59b6;">Arthur Pires (MrArthur15)</span> 🌌
+  > Hello, World! I am <span style="color: #9b59b6;">Arthur Pires (MrArthur15)</span> 
 </h1>
 
 <div align="center">
