@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <h2><code>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> 🌌</code></h2>
+  <h2><code>> Hello World!, I am <span style="color: #9B59B6">Arthur Pires</span> </code></h2>
 </div>
 
 <br>
