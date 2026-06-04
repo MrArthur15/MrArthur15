@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=arthur-pires-br&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&profanity=false&hide_remaster=false&bar_color=9b59b6&bar_color_cover=false" alt="Spotify Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=arthur-pires-br&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&profanity=false&hide_remaster=false&bar_color=9b59b6&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </div>
 
