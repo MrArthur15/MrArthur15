@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/a4/bf/96/a4bf96515b13ea1a4ce77cfa2bfb3464.gif](https://i.pinimg.com/originals/60/d4/0b/60d40b8f72ceebda5c6f600b3e5b3b0d.gif)" alt="Quarto Tech Roxo" width="100%">
+  <img src="https://i.pinimg.com/originals/60/d4/0b/60d40b8f72ceebda5c6f600b3e5b3b0d.gif" alt="Space Tech Roxo" width="100%">
 </div>
 
 <br>
@@ -53,8 +52,8 @@
 
 ### 🚀 Projetos em Destaque
 
-*   **[⚙️ WhatsApp Web Motor]** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
-*   **[💼 MyWallet (Desktop App)]**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
+*   **[⚙️ WhatsApp Web Motor](https://github.com/MrArthur15/whatsapp-motor-architecture)** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
+*   **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
 *   **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
 
 <br>
