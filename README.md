@@ -54,6 +54,8 @@
 
 <br>
 
+---
+
 ### 🔥 GitHub Stats & Activity
 
 <table align="center" width="100%" border="0">
