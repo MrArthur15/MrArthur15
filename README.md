@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center">Computer Engineering Student @ IFSP | Software Developer</h3>
+<h3 align="center">Computer Engineering Student @ IFSP | Full Stack Developer</h3>
 
 <p align="center">
   Hi! My name is <b>Arthur Pires</b> (MrArthur15), I am 22 years old and a Computer Engineering student at IFSP. I have an analytical mind driven by the desire to understand the structural "why" behind technologies. I am passionate about architecting solid solutions and constantly exploring the web and gaming ecosystem.
@@ -50,9 +50,11 @@
 
 <br>
 
-### 🚀 Projetos
+### 🚀 Projetos em Destaque
 
-*Em breve...*
+*   **[⚙️ WhatsApp Web Motor]** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
+*   **[💼 MyWallet (Desktop App)]**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
+*   **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
 
 <br>
 
