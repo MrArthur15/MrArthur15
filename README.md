@@ -48,9 +48,9 @@
 
 ### 🚀 Projetos em Destaque
 
-* ⚙️ **[WPP Business Bridge](https://github.com/MrArthur15/wpp-bridge-docs)**: Arquitetura de mensageria distribuída (Middleware) que integra o WhatsApp Web a sistemas corporativos (.NET Core / MySQL). O ecossistema compreende uma extensão de navegador de alta performance e um motor em Node.js, focados em resiliência, processamento assíncrono (fila FIFO), auditoria transacional e automação resiliente de fluxos de atendimento.
-* **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
-* **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
+* ⚙️ **[WPP Business Bridge](https://github.com/MrArthur15/wpp-bridge-docs)**: Distributed messaging middleware integrating WhatsApp Web with corporate back-ends (.NET Core / MySQL). This ecosystem features a high-performance browser extension and a robust Node.js engine, engineered for resilience, asynchronous FIFO processing, transactional auditing, and automated customer service workflows.
+* **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Financial management desktop application developed with **C#** and **MySQL**. This project strictly adheres to *Clean Architecture* principles, implementing logical layer separation (Domain, Repository, Service) to ensure high scalability and structural maintainability.
+* **[📱 Financial Ecosystem]** *(In Development)*: A comprehensive evolution of MyWallet, rebuilt from the ground up. A modern platform prioritizing user experience and advanced financial management, engineered to serve as my definitive personal finance solution.
 
 <br>
 
