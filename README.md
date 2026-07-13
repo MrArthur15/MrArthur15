@@ -48,7 +48,7 @@
 
 ### 🚀 Projetos em Destaque
 
-* **[⚙️ WhatsApp Web Motor]()** *(Repositório Privado/Enterprise)*: Extensão de navegador de alto desempenho para extração e injeção de dados no DOM do WhatsApp Web. Desenvolvida em **JavaScript (ES6+)** e integrada a uma API **C# / .NET Core**. O motor resolve problemas complexos de assincronicidade utilizando *Mutex Lock* para filas, prevenção de *Memory Leak*, bypass no React Lexical e *Circuit Breaker* contra quedas de rede.
+* ⚙️ **[WPP Business Bridge](https://github.com/MrArthur15/wpp-bridge-docs)**: Arquitetura de mensageria distribuída (Middleware) que integra o WhatsApp Web a sistemas corporativos (.NET Core / MySQL). O ecossistema compreende uma extensão de navegador de alta performance e um motor em Node.js, focados em resiliência, processamento assíncrono (fila FIFO), auditoria transacional e automação resiliente de fluxos de atendimento.
 * **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Aplicação de gestão financeira estruturada com **C#** e **MySQL**. O projeto aplica rigorosamente conceitos de *Clean Architecture*, separando responsabilidades em camadas lógicas (Domain, Repository, Service) para garantir um software escalável e de fácil manutenção estrutural.
 * **[📱 Ecossistema Financeiro]** *(Em Desenvolvimento)*: Uma evolução completa do MyWallet, construída do zero. Uma plataforma moderna focada em usabilidade diária e gestão avançada, desenhada para ser o meu gerenciador financeiro definitivo.
 
