@@ -49,10 +49,11 @@
 ### 🚀 Projetos em Destaque
 
 * ⚙️ **[WPP Business Bridge](https://github.com/MrArthur15/wpp-bridge-docs)**: Distributed messaging middleware integrating WhatsApp Web with corporate back-ends (.NET Core / MySQL). This ecosystem features a high-performance browser extension and a robust Node.js engine, engineered for resilience, asynchronous FIFO processing, transactional auditing, and automated customer service workflows.
-* **[💼 MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Financial management desktop application developed with **C#** and **MySQL**. This project strictly adheres to *Clean Architecture* principles, implementing logical layer separation (Domain, Repository, Service) to ensure high scalability and structural maintainability.
-* **[📱 Financial Ecosystem]** *(In Development)*: A comprehensive evolution of MyWallet, rebuilt from the ground up. A modern platform prioritizing user experience and advanced financial management, engineered to serve as my definitive personal finance solution.
 
-<br>
+* 💼 **[MyWallet (Desktop App)](https://github.com/MrArthur15/MyWallet)**: Financial management desktop application developed with **C#** and **MySQL**. This project strictly adheres to *Clean Architecture* principles, implementing logical layer separation (Domain, Repository, Service) to ensure high scalability and structural maintainability.
+
+* 📱 **Financial Ecosystem**: A comprehensive evolution of MyWallet, rebuilt from the ground up. A modern platform prioritizing user experience and advanced financial management, engineered to serve as my definitive personal finance solution.
+ <br>🔗 **Repositórios:** **[API Backend](https://github.com/MrArthur15/mywallet-api)** | Web App *(In Development)* | Mobile App *(In Development)*
 
 ---
 
